@@ -65,13 +65,4 @@ To run the Flask application locally, execute the following command:
 python app.py
 ```
 
-Open your web browser and go to `http://127.0.0.1:5000/` to interact with the chatbot.
 
-## This is the Chatbot interface you will see
-![Chatbot Audio Feature](images/audio.png)
-![Chatbot Audio Feature](images/convo.png)
-
-## Usage
-1. Enter your query in the chat box.
-2. The chatbot will process your query, correct any spelling errors, and search for the most relevant information from the provided text data.
-3. The response will be displayed in the chat interface.
